@@ -154,7 +154,7 @@ li.classes:nth-of-type(2) {
 li.classes:last-of-type {
   background-color: #0692e3a4;
 }
-.head-info-text {
+/*.head-info-text {
   font-family: "bebas neue", cursive;
   font-size: 30px;
   padding: 20px;
@@ -183,7 +183,7 @@ li.classes:last-of-type {
   border-bottom-color: black;
   border-width: 5px;
   padding-bottom: 30px;
-}
+} */
 
 @font-face {
   font-family: "mitrsemibold";
