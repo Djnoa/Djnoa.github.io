@@ -159,22 +159,30 @@ li.classes:last-of-type {
   font-size: 30px;
   padding: 20px;
   background-color: #e50721cb;
-  margin-top: 30px;
-  margin-left: 50px;
-  margin-right: 700px;
-  text-decoration: underline;
+  margin: 30px;
+  text-align: center;
 }
 .information-text {
   font-family: "Oswald", sans-serif;
   font-weight: bold;
   font-size: 25px;
   text-align: left;
-  margin-top: 10px;
-  margin-left: 100px;
-  margin-right: 500px;
+  margin: 10px;
   line-height: 30px;
   background-color: #0692e3a4;
   padding: 20px;
+}
+.list-info {
+  list-style-type: none;
+}
+
+.info-text-and-header {
+  border-top: solid;
+  border-top-color: black;
+  border-bottom: solid;
+  border-bottom-color: black;
+  border-width: 5px;
+  padding-bottom: 30px;
 }
 
 @font-face {
