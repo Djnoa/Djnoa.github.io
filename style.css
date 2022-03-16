@@ -143,7 +143,38 @@ body {
   text-align: center;
 }
 li.classes {
-  margin: 0 0 10px 0;
+  margin: 0 0 20px 0;
+}
+li.classes:first-of-type {
+  background-color: #0692e3a4;
+}
+li.classes:nth-of-type(2) {
+  background-color: #0692e3a4;
+}
+li.classes:last-of-type {
+  background-color: #0692e3a4;
+}
+.head-info-text {
+  font-family: "bebas neue", cursive;
+  font-size: 30px;
+  padding: 20px;
+  background-color: #e50721cb;
+  margin-top: 30px;
+  margin-left: 50px;
+  margin-right: 700px;
+  text-decoration: underline;
+}
+.information-text {
+  font-family: "Oswald", sans-serif;
+  font-weight: bold;
+  font-size: 25px;
+  text-align: left;
+  margin-top: 10px;
+  margin-left: 100px;
+  margin-right: 500px;
+  line-height: 30px;
+  background-color: #0692e3a4;
+  padding: 20px;
 }
 
 @font-face {
