@@ -130,16 +130,18 @@ body {
 .info {
   font-family: "Bebas Neue", cursive;
   text-transform: uppercase;
-  font-size: 50px;
+  font-size: 80px;
   text-align: center;
-  background-color: #e50721cb;
+  border-width: 5px;
   margin-bottom: 20px;
+  background-color: rgba(128, 128, 128, 0.5);
+  padding: 15px;
 }
 .classes {
   list-style-type: none;
   font-family: "Bebas Neue", cursive;
   text-transform: uppercase;
-  font-size: 35px;
+  font-size: 45px;
   text-align: center;
 }
 li.classes {
